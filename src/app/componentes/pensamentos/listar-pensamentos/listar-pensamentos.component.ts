@@ -18,6 +18,12 @@ export class ListarPensamentosComponent implements OnInit {
       conteudo:'rarara',
       autoria:'malaqui',
       modelo:'modelo2'
+    },
+
+    {
+      conteudo:'rararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararararrarararararararararararararararararararararararararararararararararararararararararaararararararararararararararararararara',
+      autoria:'malaqui',
+      modelo:'modelo2'
     }
   ];
 
